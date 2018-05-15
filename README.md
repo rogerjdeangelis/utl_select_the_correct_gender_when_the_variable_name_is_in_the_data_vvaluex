@@ -1,0 +1,2 @@
+# utl_select_the_correct_gender_when_the_variable_name_is_in_the_data_vvaluex
+Select the correct gender when the variable name is in the data vvaluex.  Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
